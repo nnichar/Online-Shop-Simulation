@@ -1,5 +1,7 @@
 # Online Shop Simulation
 
+The data of this store were missing or erroring, so we have to handle all errors.
+
 ## Requirements
 
 1) The data in file products.txt, Each line contains product name, price, and weight. Implement class Product, with at least the following
